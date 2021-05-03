@@ -1,1 +1,1 @@
-testGitKraken
+testGit
